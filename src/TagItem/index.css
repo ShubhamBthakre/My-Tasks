@@ -1,0 +1,18 @@
+.tag-item {
+  list-style-type: none;
+  margin-right: 10px;
+}
+.tag-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  border: 1px solid #f3aa4e;
+  color: #f1f5f9;
+  padding: 6px 15px;
+  border-radius: 20px;
+  font-size: 12px;
+  cursor: pointer;
+}
+.active-tag-button {
+  background-color: #f3aa4e;
+}

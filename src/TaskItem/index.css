@@ -1,0 +1,23 @@
+.task-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.task-input {
+  color: #f1f5f9;
+  font-size: 18px;
+  margin: 0px;
+  padding: 0px;
+}
+.task-category {
+  padding: 5px 20px;
+  color: #323f4b;
+  font-size: 12px;
+  background-color: #f3aa4e;
+  border-radius: 15px;
+  font-weight: 500;
+  margin: 0px;
+  padding: 0px;
+  padding: 5px 20px;
+}
